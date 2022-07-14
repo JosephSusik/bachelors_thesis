@@ -1,3 +1,2 @@
 # Bachelor's Thesis
-### Rozpoznávání kategorie vozidel /
-### Vehicle category recognition
+## Vehicle category recognition / Rozpoznávání kategorie vozidel
